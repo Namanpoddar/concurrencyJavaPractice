@@ -1,0 +1,10 @@
+
+e
+java:S2184"CCast one of the operands of this subtraction operation to a "long".(ˆñÒ‘ûÿÿÿÿ8‘õùÌ§0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎŠï½
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+W	java:S125 "<This block of commented-out lines of code should be removed.(²»â'8§È÷Ì§0
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8¦õùÌ§0
